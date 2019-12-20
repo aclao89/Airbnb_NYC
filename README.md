@@ -9,3 +9,7 @@ Hosts provide prices and other details for their rental or event listings, such 
 Since its inception in 2008, Airbnb has seen a exponential growth with the number of rentals listed on its website. Airbnb has successfully disrupted the traditional hospitality industry as more and more traverllers utilize Airbnb as their premier acccomdation provider.
 
 New York City has been one of the hottest markets for Airbnb. In the project, I performed an exploratory analysis of the Airbnb dataset sourced from Kaggle to understand the rental landscape in New York City through visualizations and charts. 
+
+
+
+Data Source: Kaggle [https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data]
