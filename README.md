@@ -18,7 +18,7 @@ Questions to be explored:
 3. Which neighbourhoods have the most listings?
 4. List the price distribution of listings in neighbourhoods.
 5. Create a heatmap of the listings in the New York City bouroughs.
-6. What is the average prices of the top-reviewed listings? 
+6. What is the average price of the top-reviewed listings? 
 
 
 
