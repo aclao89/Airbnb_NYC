@@ -11,5 +11,17 @@ Since its inception in 2008, Airbnb has seen a exponential growth with the numbe
 New York City has been one of the hottest markets for Airbnb. In the project, I performed an exploratory analysis of the Airbnb dataset to understand the rental landscape in New York City in 2019.
 
 
+Questions to be explored:
+
+1. Who has the most listings? 
+2. Which neighbourhood group have the most listings?
+3. Which neighbourhoods have the most listings?
+4. List the price distribution of listings in neighbourhoods.
+5. Create a heatmap of the listings in the New York City bouroughs.
+6. What is the average prices of the top-reviewed listings? 
+
+
+
+
 
 Data Source: Kaggle [https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data]
