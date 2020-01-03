@@ -19,6 +19,7 @@ Questions to be explored:
 4. List the price distribution of listings in neighbourhoods.
 5. Create a heatmap of the listings in the New York City bouroughs.
 6. What is the average price of the top-reviewed listings? 
+7. Find a trend in the words used in the listing description.
 
 
 
