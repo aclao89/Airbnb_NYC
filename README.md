@@ -19,6 +19,10 @@ Questions to be explored:
 
 
 2. Which neighbourhood group have the most listings?
+
+![Listings by Neighbourhood Groups](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/neigh_group_listings.png) 
+
+
 3. Which neighbourhoods have the most listings?
 4. List the price distribution of listings in neighbourhoods.
 5. Create a heatmap of the listings in the New York City bouroughs.
