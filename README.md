@@ -23,11 +23,13 @@ Questions to be explored:
 ![Listings by Neighbourhood Groups](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/neigh_group_listings.png) 
 
 
-3. Which neighbourhoods have the most listings?
-4. List the price distribution of listings in neighbourhoods.
-5. Create a heatmap of the listings in the New York City bouroughs.
-6. What is the average price of the top-reviewed listings? 
-7. Find a trend in the words used in the listing description.
+3. List the price distribution of listings in neighbourhoods.
+
+![Rental Price Distribution](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/rentalpricedistribution.png)
+
+4. Create a heatmap of the listings in the New York City bouroughs.
+5. What is the average price of the top-reviewed listings? 
+6. Find a trend in the words used in the listing description.
 
 
 
