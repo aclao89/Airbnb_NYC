@@ -38,10 +38,17 @@ Each subplot is for the room type: entire home/apartment, private room, and shar
 Based on this violin chart, Manhattan has the widest distribution (wide range of prices) with $ 150 as average. Brooklyn has the second highest distribution. Queens and Staten Island have similar distributions and averages. Bronx is the cheapest of them all. This violin chart is logical since Manhattan is known as one of the most expensive places in the world to live in whereas Bronx has a lower standard of living costs.
 
 5. Create a heatmap of the listings in the New York City bouroughs.
+ See Notebook
+
 6. What is the average price of the top-reviewed listings? 
+Average price per night: $65.4
+
+
 7. Find a trend in the words used in the listing description.
 
+![Word Cloud Diagram](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/wordcloudlistings.png)
 
+Based on this WordCloud diagram, it shows that hosts are simply describing their lisitng in a short form with very specific terms for easier search by potential travelers. Word such as room, bedroom, cozy, apartment, studio, park, and private. Since Airbnb is used internationally, hosts need to use simple terms to describe the listing and area surrounding the it.
 
 
 
