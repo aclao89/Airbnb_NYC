@@ -17,6 +17,8 @@ Questions to be explored:
 
 ![Hosts with most listings](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/top10hostlistings.png)
 
+The first host has 300+ listings. Third through tenth hosts have evenly distributed amount of listings.
+
 
 2. Which neighbourhood group have the most listings?
 
@@ -24,9 +26,12 @@ Questions to be explored:
 
 Each subplot is for the room type: entire home/apartment, private room, and shared room. The X-axis is the neighbourhoods and Y-axis is the count of listings in that particular neighbourhood. The first observation is the limited availability of shared room listings. We could attribute this to the small living conditions of New York City. Out of the neighbourhoods groups, only Manhattan and Brooklyn are presented which is to no suprise since they are the most traveled areas in New York City.Williamsburg and Bedford-Stuyvesant is most popular neighbourhood in Brooklyn. Harlem has the most listings in Manhattan.
 
+
 3. List the price distribution of listings in neighbourhoods.
 
 ![Rental Price Distribution](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/rentalpricedistribution.png)
+
+Based on this violin chart, Manhattan has the widest distribution (wide range of prices) with $ 150 as average. Brooklyn has the second highest distribution. Queens and Staten Island have similar distributions and averages. Bronx is the cheapest of them all. This violin chart is logical since Manhattan is known as one of the most expensive places in the world to live in whereas Bronx has a lower standard of living costs.
 
 4. Create a heatmap of the listings in the New York City bouroughs.
 5. What is the average price of the top-reviewed listings? 
