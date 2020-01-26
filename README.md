@@ -14,6 +14,10 @@ New York City has been one of the hottest markets for Airbnb. In the project, I 
 Questions to be explored:
 
 1. Who has the most listings? 
+
+![Hosts with most listings](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/top10hostlistings.png)
+
+
 2. Which neighbourhood group have the most listings?
 3. Which neighbourhoods have the most listings?
 4. List the price distribution of listings in neighbourhoods.
