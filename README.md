@@ -22,6 +22,7 @@ Questions to be explored:
 
 ![Listings by Neighbourhood Groups](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/neigh_group_listings.png) 
 
+Each subplot is for the room type: entire home/apartment, private room, and shared room. The X-axis is the neighbourhoods and Y-axis is the count of listings in that particular neighbourhood. The first observation is the limited availability of shared room listings. We could attribute this to the small living conditions of New York City. Out of the neighbourhoods groups, only Manhattan and Brooklyn are presented which is to no suprise since they are the most traveled areas in New York City.Williamsburg and Bedford-Stuyvesant is most popular neighbourhood in Brooklyn. Harlem has the most listings in Manhattan.
 
 3. List the price distribution of listings in neighbourhoods.
 
