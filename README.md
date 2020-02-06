@@ -8,7 +8,7 @@ Hosts provide prices and other details for their rental or event listings, such 
 
 Since its inception in 2008, Airbnb has seen a exponential growth with the number of rentals listed on its website. Airbnb has successfully disrupted the traditional hospitality industry as more and more travellers utilize Airbnb as their premier acccomdation provider.
 
-New York City has been one of the hottest markets for Airbnb. In the project, I performed an exploratory analysis of the Airbnb dataset to understand the rental landscape in New York City. The listings are from 2011-2019. 
+New York City has been one of the hottest markets for Airbnb. In the project, I performed an exploratory analysis of the Airbnb dataset to understand the rental landscape and consumer behavior with Airbnb listings in New York City.  The listings are from 2011-2019. 
 
 
 Questions to be explored:
