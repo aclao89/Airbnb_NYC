@@ -68,7 +68,14 @@ Based on this WordCloud diagram, it shows that hosts are simply describing their
 
                                                 Geographical Visualizations
 
-1. Folium Map to visualize all unique listings in New York City. I used the cluster marker for cleaner visuals.
+1. Basic Scatter Plot Map for all listings and price.
+
+![heat map](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/heatmap.png)
+
+Using latitude and longitude points were able to visualize all NYC listings. Also, we added a color-coded range for each point on the map based on the price of the listing. The prices are significantly higher in the Manhattan area as confirmed by the previous graphs on prices based on room type.
+
+
+2. Folium Map to visualize all unique listings in New York City. I used the cluster marker for cleaner visuals.
 
 ![cluster maker](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/markercluster.png)
 
@@ -79,14 +86,14 @@ Zoomed in more to see distribution
 This visual map confirms that most listings are indeed located in Manhattan and Brooklyn.
 
 
-2. Folium map showing top 10 most reviewed listings.
+3. Folium map showing top 10 most reviewed listings.
 
 ![top 10 reviewed](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/top10listingmap.PNG)
 
 I added several markers for popular attractions and restaurants. Attractions(blue) and restaurants(green) were pulled off TripAdvisor and Eatery NY, respectively.
 
 
-3. Most expensive neighborhoods by average price per night.
+4. Most expensive neighborhoods by average price per night.
 
 ![most exp neighborhoods](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/top10expneigh.PNG)
 
