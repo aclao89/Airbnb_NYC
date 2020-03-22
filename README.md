@@ -58,15 +58,31 @@ This chart shows that entire home/apartments in Manhattan are most expensive, av
 
 Based on this violin chart, Manhattan has the widest distribution (wide range of prices) with $ 150 as average. Brooklyn has the second highest distribution. Queens and Staten Island have similar distributions and averages.  Bronx is the cheapest of them all. This violin chart is logical since Manhattan is known as one of the most expensive places in the world to live in whereas Bronx has a lower standard of living costs.  
 
+                                                Geographical Visualizations
+
+1. Folium Map to visualize all unique listings in New York City. I used the cluster marker for cleaner visuals.
+
+![cluster maker](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/markercluster.png)
+
+Zoomed in more to see distribution
+
+![cluster marker 2](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/markercluster2.png)
+
+This visual map confirms that most listings are indeed located in Manhattan and Brooklyn.
+
+2. Folium map showing top 10 most reviews listing along with popular attractions and restaurants.
+
+![top 10 reviewed](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/top10listingmap.PNG)
 
 
-6. Find a trend in the words used in the listing description.
+
+8. Find a trend in the words used in the listing description.
 
 ![Word Cloud Diagram](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/wordcloudlistings.png)
 
 Based on this WordCloud diagram, it shows that hosts are simply describing their lisitng in a short form with very specific terms for easier search by potential travelers. Word such as room, bedroom, cozy, apartment, studio, park, and private. Since Airbnb is used internationally, hosts need to use simple terms to describe the listing and area surrounding the it.
 
-7. 
+7.
 
 
 
