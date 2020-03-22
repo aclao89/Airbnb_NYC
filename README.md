@@ -22,23 +22,42 @@ The first host has 300+ listings. Third through tenth hosts have evenly distribu
 
 2. Which Borough (neighbourhood group) have the most listings?
 
-![Listings by Neighbourhood Groups](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/neigh_group_listings.png)
+![Listings by Neighbourhood Groups](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/listingcntborough.png)
 
-.
-
-3. What is the price range of listings in the neighborhood groups?
-
-![Listing price by Neighborhood Groups](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/neigh_group_price.png)
+Most of Airbnb listings in New York are near Brooklyn and Manhattan which is expected since it's a popular destination for attractions, restaurants, and business travel.
 
 
-4. List the price distribution of listings in the 5 bouroughs.
+3. What are the room types offered in each Borough?
 
-![Rental Price Distribution](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/rentalpricedistribution.png)
+![Listing price by Neighborhood Groups](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/roomtypebyborough.png)
 
-Based on this violin chart, Manhattan has the widest distribution (wide range of prices) with $ 150 as average. Brooklyn has the second highest distribution. Queens and Staten Island have similar distributions and averages. Bronx is the cheapest of them all. This violin chart is logical since Manhattan is known as one of the most expensive places in the world to live in whereas Bronx has a lower standard of living costs.
+The bar plot shows that Entire Home/Apartment are listed most near Manhattan while Private Rooms and Entire Home/Apartments near Brooklyn have similar count of listings.
 
-5. Create a heatmap of the listings in the New York City bouroughs.
- See Notebook
+
+4. Price Distribution by Room Type by Boroughs. These graphs provide the average price per night by room types in each borough. This can serve as a resource for those on a budget or looking to rent by room type.
+
+
+![shared room price](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/sharedroomprice.png)
+
+A shared room is cheapest in Brooklyn and Bronx. This graph shows that 90% of shared rooms cost nearly 80(USD) per night whereas Manhattan is the most expensive at nearly 150(USD) per night.
+
+
+![private room price](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/privateroomprice.png)
+
+This chart shows that 90% of private rooms in Brooklyn, Bronx, Staten Island, Queens cost around 100 (USD) per night. On the contrary, private rooms in Manhattan cost nearly 180 (USD) per night
+
+
+![entire home price](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/entirehomeprice.png)
+
+This chart shows that entire home/apartments in Manhattan are most expensive, averaging nearly 400 (USD) per night. Staten Island, Queens, and Brooklyn lie between 250-275 (USD) per night. Bronx is the cheapest at 200 (USD) per night.
+
+
+5. What is the overall price distribution by boroughs?
+
+![overall price](https://github.com/aclao89/Airbnb_NYC/raw/master/Images/rentalpricedistribution.png)
+
+Based on this violin chart, Manhattan has the widest distribution (wide range of prices) with $ 150 as average. Brooklyn has the second highest distribution. Queens and Staten Island have similar distributions and averages.  Bronx is the cheapest of them all. This violin chart is logical since Manhattan is known as one of the most expensive places in the world to live in whereas Bronx has a lower standard of living costs.  
+
 
 
 6. Find a trend in the words used in the listing description.
@@ -46,6 +65,8 @@ Based on this violin chart, Manhattan has the widest distribution (wide range of
 ![Word Cloud Diagram](https://github.com/aclao89/Airbnb_NYC/blob/master/Images/wordcloudlistings.png)
 
 Based on this WordCloud diagram, it shows that hosts are simply describing their lisitng in a short form with very specific terms for easier search by potential travelers. Word such as room, bedroom, cozy, apartment, studio, park, and private. Since Airbnb is used internationally, hosts need to use simple terms to describe the listing and area surrounding the it.
+
+7. 
 
 
 
